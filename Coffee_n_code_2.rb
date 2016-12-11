@@ -1,5 +1,5 @@
 # 1
-# ovies = [ ["Alfonso Cuaron," "Gravity"], ["Spike Jonze", "Her"], ["Martin Scorcese", "The Wolf of Wall Street"]]
+# movies = [ ["Alfonso Cuaron," "Gravity"], ["Spike Jonze", "Her"], ["Martin Scorcese", "The Wolf of Wall Street"]]
 #
 
 # movies = [a = ["Alfonso Cuaron," "Gravity"], b= ["Spike Jonze", "Her"], c = ["Martin Scorcese", "The Wolf of Wall Street"]]
